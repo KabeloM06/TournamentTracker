@@ -6,4 +6,8 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="FsCheck" Version="2.16.4" />
+  </ItemGroup>
+
 </Project>
